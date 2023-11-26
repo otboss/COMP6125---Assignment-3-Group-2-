@@ -1,0 +1,11 @@
+models/**
+!models/.gitkeep
+venv
+data/**
+!data/train
+data/train/**
+!data/train/.gitkeep
+!data/validate
+data/validate/**
+!data/validate/.gitkeep
+**/*.zip
